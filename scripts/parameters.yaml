@@ -1,0 +1,6 @@
+input_path: ../data/input
+dataset_path: ../data/dataset
+folder_figures: ../figures
+folder_tables: ../tables
+folder_results: ../data/results
+folder_models: ../models
